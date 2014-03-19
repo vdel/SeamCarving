@@ -1,0 +1,6 @@
+This is a Seam Carving (http://en.wikipedia.org/wiki/Seam_carving) project in OCaml.
+
+Report (in french): rapport.pdf
+
+To launch:
+make; ./resize_img test.bmp
